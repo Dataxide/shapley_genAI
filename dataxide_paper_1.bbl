@@ -1,0 +1,177 @@
+\begin{thebibliography}{10}
+
+\bibitem{alembics2022disco}
+Alembics.
+\newblock Disco diffusion.
+\newblock \url{https://github.com/alembics/disco-diffusion}, 2022.
+\newblock [Online; accessed 26-11-2023].
+
+\bibitem{basu2021influence}
+Samyadeep Basu, Philip Pope, and Soheil Feizi.
+\newblock Influence functions in deep learning are fragile, 2021.
+
+\bibitem{brown2020language}
+Tom~B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan,
+  Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda
+  Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, Tom Henighan,
+  Rewon Child, Aditya Ramesh, Daniel~M. Ziegler, Jeffrey Wu, Clemens Winter,
+  Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray,
+  Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford,
+  Ilya Sutskever, and Dario Amodei.
+\newblock Language models are few-shot learners, 2020.
+
+\bibitem{carlini2023extracting}
+Nicholas Carlini, Jamie Hayes, Milad Nasr, Matthew Jagielski, Vikash Sehwag,
+  Florian Tramèr, Borja Balle, Daphne Ippolito, and Eric Wallace.
+\newblock Extracting training data from diffusion models, 2023.
+
+\bibitem{cherti2022reproducible}
+Mehdi Cherti, Romain Beaumont, Ross Wightman, Mitchell Wortsman, Gabriel
+  Ilharco, Cade Gordon, Christoph Schuhmann, Ludwig Schmidt, and Jenia Jitsev.
+\newblock Reproducible scaling laws for contrastive language-image learning,
+  2022.
+
+\bibitem{crowson2021clip512}
+Katherine Crowson.
+\newblock {CLIP Guided Diffusion 512x512, Secondary Model Method}.
+\newblock \url{https://twitter.com/RiversHaveWings/status/1462859669454536711},
+  2021.
+
+\bibitem{crowson2021clip}
+Katherine Crowson.
+\newblock {CLIP guided diffusion HQ 256x256}.
+\newblock
+  \url{https://colab.research.google.com/drive/12a_Wrfi2_gwwAuN3VvMTwVMz9TfqctNj},
+  2021.
+
+\bibitem{gadre2023datacomp}
+Samir~Yitzhak Gadre, Gabriel Ilharco, Alex Fang, Jonathan Hayase, Georgios
+  Smyrnis, Thao Nguyen, Ryan Marten, Mitchell Wortsman, Dhruba Ghosh, Jieyu
+  Zhang, Eyal Orgad, Rahim Entezari, Giannis Daras, Sarah Pratt, Vivek
+  Ramanujan, Yonatan Bitton, Kalyani Marathe, Stephen Mussmann, Richard Vencu,
+  Mehdi Cherti, Ranjay Krishna, Pang~Wei Koh, Olga Saukh, Alexander Ratner,
+  Shuran Song, Hannaneh Hajishirzi, Ali Farhadi, Romain Beaumont, Sewoong Oh,
+  Alex Dimakis, Jenia Jitsev, Yair Carmon, Vaishaal Shankar, and Ludwig
+  Schmidt.
+\newblock Datacomp: In search of the next generation of multimodal datasets,
+  2023.
+
+\bibitem{ghorbani2019data}
+Amirata Ghorbani and James Zou.
+\newblock Data shapley: Equitable valuation of data for machine learning, 2019.
+
+\bibitem{koh2020understanding}
+Pang~Wei Koh and Percy Liang.
+\newblock Understanding black-box predictions via influence functions, 2020.
+
+\bibitem{kokalj-etal-2021-bert}
+Enja Kokalj, Bla{\v{z}} {\v{S}}krlj, Nada Lavra{\v{c}}, Senja Pollak, and Marko
+  Robnik-{\v{S}}ikonja.
+\newblock {BERT} meets shapley: Extending {SHAP} explanations to
+  transformer-based classifiers.
+\newblock In {\em Proceedings of the EACL Hackashop on News Media Content
+  Analysis and Automated Report Generation}, pages 16--21, Online, April 2021.
+  Association for Computational Linguistics.
+
+\bibitem{lundberg2017unified}
+Scott Lundberg and Su-In Lee.
+\newblock A unified approach to interpreting model predictions, 2017.
+
+\bibitem{artiststudy2022}
+Manav Mashruwala.
+\newblock Sd1.5 artist study.
+\newblock
+  \url{https://docs.google.com/spreadsheets/d/1SRqJ7F_6yHVSOeCi3U82aA448TqEGrUlRrLLZ51abLg/edit#gid=1609688219},
+  2023.
+\newblock [Online; accessed 28-11-2023].
+
+\bibitem{nichol2021improved}
+Alex Nichol and Prafulla Dhariwal.
+\newblock Improved denoising diffusion probabilistic models, 2021.
+
+\bibitem{nichol2022glide}
+Alex Nichol, Prafulla Dhariwal, Aditya Ramesh, Pranav Shyam, Pamela Mishkin,
+  Bob McGrew, Ilya Sutskever, and Mark Chen.
+\newblock Glide: Towards photorealistic image generation and editing with
+  text-guided diffusion models, 2022.
+
+\bibitem{pinkney2022imagemixer}
+Justin Pinkney.
+\newblock Imagemixer: A multi-image conditioning gan for image synthesis, 2022.
+
+\bibitem{pruthi2020estimating}
+Garima Pruthi, Frederick Liu, Mukund Sundararajan, and Satyen Kale.
+\newblock Estimating training data influence by tracing gradient descent, 2020.
+
+\bibitem{radford2021learning}
+Alec Radford, Jong~Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh,
+  Sandhini Agarwal, et~al.
+\newblock Learning transferable visual models from natural language
+  supervision.
+\newblock {\em arXiv preprint arXiv:2103.00020}, 2021.
+
+\bibitem{radford2019language}
+Alec Radford, Jeff Wu, Rewon Child, David Luan, Dario Amodei, and Ilya
+  Sutskever.
+\newblock Language models are unsupervised multitask learners.
+\newblock 2019.
+
+\bibitem{raffel2023exploring}
+Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael
+  Matena, Yanqi Zhou, Wei Li, and Peter~J. Liu.
+\newblock Exploring the limits of transfer learning with a unified text-to-text
+  transformer, 2023.
+
+\bibitem{ramesh2022hierarchical}
+Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, and Mark Chen.
+\newblock Hierarchical text-conditional image generation with clip latents,
+  2022.
+
+\bibitem{ramesh2021zeroshot}
+Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec
+  Radford, Mark Chen, and Ilya Sutskever.
+\newblock Zero-shot text-to-image generation, 2021.
+
+\bibitem{razavi2019generating}
+Ali Razavi, Aaron van~den Oord, and Oriol Vinyals.
+\newblock Generating diverse high-fidelity images with vq-vae-2, 2019.
+
+\bibitem{rombach2021highresolution}
+Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, and Björn
+  Ommer.
+\newblock High-resolution image synthesis with latent diffusion models, 2021.
+
+\bibitem{saharia2022photorealistic}
+Chitwan Saharia, William Chan, Saurabh Saxena, Lala Li, Jay Whang, Emily
+  Denton, Seyed Kamyar~Seyed Ghasemipour, Burcu~Karagol Ayan, S.~Sara Mahdavi,
+  Rapha~Gontijo Lopes, Tim Salimans, Jonathan Ho, David~J Fleet, and Mohammad
+  Norouzi.
+\newblock Photorealistic text-to-image diffusion models with deep language
+  understanding, 2022.
+
+\bibitem{schuhmann2022laion5b}
+Christoph Schuhmann, Romain Beaumont, Richard Vencu, Cade Gordon, Ross
+  Wightman, Mehdi Cherti, Theo Coombes, Aarush Katta, Clayton Mullis, Mitchell
+  Wortsman, Patrick Schramowski, Srivatsa Kundurthy, Katherine Crowson, Ludwig
+  Schmidt, Robert Kaczmarczyk, and Jenia Jitsev.
+\newblock Laion-5b: An open large-scale dataset for training next generation
+  image-text models, 2022.
+
+\bibitem{shapley1953value}
+Lloyd~S Shapley.
+\newblock A value for n-person games.
+\newblock {\em Contributions to the Theory of Games}, 2(28):307--317, 1953.
+
+\bibitem{image-style-study-2023-part1}
+@sureailabs, @proximasan, @EErratica, and @KyrickYoung.
+\newblock Image synthesis style studies database (the list).
+\newblock
+  \url{https://docs.google.com/spreadsheets/d/14xTqtuV3BuKDNhLotB_d1aFlBGnDJOY0BRXJ8-86GpA/edit?usp=sharing}.
+\newblock Accessed: 2023-10-02.
+
+\bibitem{vaswani2023attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N. Gomez, Lukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need, 2023.
+
+\end{thebibliography}
