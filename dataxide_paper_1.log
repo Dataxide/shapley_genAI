@@ -1,63 +1,85 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9.24) (preloaded format=pdflatex 2023.9.29)  6 OCT 2023 15:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.23)  5 FEB 2024 00:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**C:/Projects/shapley_SD/paper/dataxide_paper_1.tex
-(C:/Projects/shapley_SD/paper/dataxide_paper_1.tex
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-08-29>
+**./dataxide_paper_1.tex
+(dataxide_paper_1.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+(C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count185
-\c@section=\count186
-\c@subsection=\count187
-\c@subsubsection=\count188
-\c@paragraph=\count189
-\c@subparagraph=\count190
-\c@figure=\count191
-\c@table=\count192
+\c@part=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
+(C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks18
+
+(C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/preprint\authblk.sty
 Package: authblk 2001/02/27 1.3 (PWD)
 \affilsep=\skip50
 \@affilsep=\skip51
-\c@Maxaffil=\count193
-\c@authors=\count194
-\c@affil=\count195
+\c@Maxaffil=\count197
+\c@authors=\count198
+\c@affil=\count199
 )
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen141
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen149
 \ar@mcellbox=\box51
-\extrarowheight=\dimen142
-\NC@list=\toks17
+\extrarowheight=\dimen150
+\NC@list=\toks19
 \extratabsurround=\skip52
 \backup@length=\skip53
 \ar@cellbox=\box52
 )
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\enitkv@toks@=\toks18
 \labelindent=\skip54
-\enit@outerparindent=\dimen143
-\enit@toks=\toks19
+\enit@outerparindent=\dimen151
+\enit@toks=\toks20
 \enit@inbox=\box53
-\enit@count@id=\count196
-\enitdp@description=\count197
+\enit@count@id=\count266
+\enitdp@description=\count267
 )
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks20
-)
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
@@ -73,42 +95,39 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen144
-\Gin@req@width=\dimen145
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
 )
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
-Package: caption 2023/07/31 v3.6n Customizing captions (AR)
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen146
-\captionmargin=\dimen147
-\caption@leftmargin=\dimen148
-\caption@rightmargin=\dimen149
-\caption@width=\dimen150
-\caption@indent=\dimen151
-\caption@parindent=\dimen152
-\caption@hangindent=\dimen153
+\caption@tempdima=\dimen154
+\captionmargin=\dimen155
+\caption@leftmargin=\dimen156
+\caption@rightmargin=\dimen157
+\caption@width=\dimen158
+\caption@indent=\dimen159
+\caption@parindent=\dimen160
+\caption@hangindent=\dimen161
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count198
-\c@continuedfloat=\count199
+\c@caption@flags=\count268
+\c@continuedfloat=\count269
 )
 Package caption Info: New subtype `subfigure' on input line 238.
-\c@subfigure=\count266
+\c@subfigure=\count270
 Package caption Info: New subtype `subtable' on input line 238.
-\c@subtable=\count267
+\c@subtable=\count271
 ) (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
+Package: hyperref 2023-11-09 v7.01f Hypertext links for LaTeX
 
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)
-(C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
 .sty
@@ -144,7 +163,7 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
-Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
+Package: nameref 2023-11-09 v2.55 Cross-referencing by name of section
 
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
@@ -156,46 +175,46 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count268
+\c@section@level=\count272
 )
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count269
+\etb@tempcnta=\count273
 )
-\@linkdim=\dimen154
-\Hy@linkcounter=\count270
-\Hy@pagecounter=\count271
+\@linkdim=\dimen162
+\Hy@linkcounter=\count274
+\Hy@pagecounter=\count275
 
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2023-11-09 v7.01f Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count272
+\Hy@SavedSpaceFactor=\count276
 
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2023-11-09 v7.01f Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4167.
-Package hyperref Info: Link nesting OFF on input line 4172.
-Package hyperref Info: Hyper index ON on input line 4175.
-Package hyperref Info: Plain pages OFF on input line 4182.
-Package hyperref Info: Backreferencing OFF on input line 4187.
+Package hyperref Info: Hyper figures OFF on input line 4171.
+Package hyperref Info: Link nesting OFF on input line 4176.
+Package hyperref Info: Hyper index ON on input line 4179.
+Package hyperref Info: Plain pages OFF on input line 4186.
+Package hyperref Info: Backreferencing OFF on input line 4191.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4434.
-\c@Hy@tempcnt=\count273
+Package hyperref Info: Bookmarks ON on input line 4438.
+\c@Hy@tempcnt=\count277
 
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4772.
-\XeTeXLinkMargin=\dimen155
+LaTeX Info: Redefining \url on input line 4776.
+\XeTeXLinkMargin=\dimen163
 
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -205,36 +224,36 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count274
-\Field@Width=\dimen156
-\Fld@charsize=\dimen157
-Package hyperref Info: Hyper figures OFF on input line 6051.
-Package hyperref Info: Link nesting OFF on input line 6056.
-Package hyperref Info: Hyper index ON on input line 6059.
-Package hyperref Info: backreferencing OFF on input line 6066.
-Package hyperref Info: Link coloring OFF on input line 6071.
-Package hyperref Info: Link coloring with OCG OFF on input line 6076.
-Package hyperref Info: PDF/A mode OFF on input line 6081.
+\Fld@menulength=\count278
+\Field@Width=\dimen164
+\Fld@charsize=\dimen165
+Package hyperref Info: Hyper figures OFF on input line 6055.
+Package hyperref Info: Link nesting OFF on input line 6060.
+Package hyperref Info: Hyper index ON on input line 6063.
+Package hyperref Info: backreferencing OFF on input line 6070.
+Package hyperref Info: Link coloring OFF on input line 6075.
+Package hyperref Info: Link coloring with OCG OFF on input line 6080.
+Package hyperref Info: PDF/A mode OFF on input line 6085.
 
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count275
-\c@Item=\count276
-\c@Hfootnote=\count277
+\Hy@abspage=\count279
+\c@Item=\count280
+\c@Hfootnote=\count281
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
+File: hpdftex.def 2023-11-09 v7.01f Hyperref driver for pdfTeX
 
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count278
-\c@bookmark@seq@number=\count279
+\Fld@listcount=\count282
+\c@bookmark@seq@number=\count283
 
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
@@ -252,61 +271,95 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip56
-\multirow@cntb=\count280
+\multirow@cntb=\count284
 \multirow@dima=\skip57
-\bigstrutjot=\dimen158
+\bigstrutjot=\dimen166
 )
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
-Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen159
-\TX@old@table=\dimen160
-\TX@old@col=\dimen161
-\TX@target=\dimen162
-\TX@delta=\dimen163
-\TX@cols=\count281
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen167
+\TX@old@table=\dimen168
+\TX@old@col=\dimen169
+\TX@target=\dimen170
+\TX@delta=\dimen171
+\TX@cols=\count285
 \TX@ftn=\toks21
 )
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
-File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count282
+File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count286
 \l__pdf_internal_box=\box54
-)
-No file dataxide_paper_1.aux.
+) (dataxide_paper_1.aux)
 \openout1 = `dataxide_paper_1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count283
-\scratchdimen=\dimen164
+\scratchcounter=\count287
+\scratchdimen=\dimen172
 \scratchbox=\box55
-\nofMPsegments=\count284
-\nofMParguments=\count285
+\nofMPsegments=\count288
+\nofMParguments=\count289
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count286
-\MPscratchDim=\dimen165
-\MPnumerator=\count287
-\makeMPintoPDFobject=\count288
+\MPscratchCnt=\count290
+\MPscratchDim=\dimen173
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
 \everyMPtoPDFconversion=\toks23
 )
 (C:\Users\alexi\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -322,243 +375,780 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 20.
+Package hyperref Info: Link coloring OFF on input line 24.
+ (dataxide_paper_1.out) (dataxide_paper_1.out)
 \@outlinefile=\write3
 \openout3 = `dataxide_paper_1.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 23.
+(Font)              <14.4> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 23.
+(Font)              <7> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 23.
+(Font)              <5> on input line 27.
+ [1
 
+{C:/Users/alexi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 66.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 66.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 66.
 
-LaTeX Warning: Citation `vaswani2023attention' on page 1 undefined on input lin
-e 29.
-
-
-LaTeX Warning: Citation `radford2019language' on page 1 undefined on input line
- 31.
-
-[1
-
-{C:/Users/alexi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
-
-LaTeX Warning: Citation `shapley1953value' on page 3 undefined on input line 52
-.
-
-
-LaTeX Warning: Citation `ghorbani2019data' on page 3 undefined on input line 54
-.
-
-[3]
-
-LaTeX Warning: Citation `lundberg2017unified' on page 4 undefined on input line
- 56.
-
-
-LaTeX Warning: Citation `kokalj-etal-2021-bert' on page 4 undefined on input li
-ne 56.
-
-
-Overfull \hbox (16.31873pt too wide) in paragraph at lines 56--57
-\OT1/cmr/m/n/10 ing in-spi-ra-tion from how it is im-ple-mented in the \OT1/cmr
-/bx/n/10 SHAP \OT1/cmr/m/n/10 [[]] pack-age for transformer-
+Overfull \hbox (25.19997pt too wide) in paragraph at lines 66--80
+ [][] 
  []
 
-
-LaTeX Warning: Reference `tab:table_1' on page 4 undefined on input line 58.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 62.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 62.
-
-LaTeX Warning: Reference `fig:figure_1' on page 4 undefined on input line 80.
-
-
-LaTeX Warning: Reference `fig:figure_2' on page 4 undefined on input line 80.
-
-
-LaTeX Warning: Citation `carlini2023extracting' on page 4 undefined on input li
-ne 80.
-
-
-LaTeX Warning: Reference `fig:figure_3' on page 4 undefined on input line 80.
-
-<images/fig1-1.jpg, id=26, 513.92pt x 513.92pt>
+<images/fig1-1.jpg, id=90, 513.92pt x 513.92pt>
 File: images/fig1-1.jpg Graphic file (type jpg)
 <use images/fig1-1.jpg>
-Package pdftex.def Info: images/fig1-1.jpg  used on input line 87.
-(pdftex.def)             Requested size: 110.40253pt x 110.39653pt.
-<images/fig1-2.png, id=27, 513.92pt x 513.92pt>
-File: images/fig1-2.png Graphic file (type png)
-<use images/fig1-2.png>
-Package pdftex.def Info: images/fig1-2.png  used on input line 93.
-(pdftex.def)             Requested size: 110.40253pt x 110.39653pt.
-<images/fig1-3.png, id=28, 513.92pt x 513.92pt>
-File: images/fig1-3.png Graphic file (type png)
-<use images/fig1-3.png>
-Package pdftex.def Info: images/fig1-3.png  used on input line 99.
-(pdftex.def)             Requested size: 110.40253pt x 110.39653pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<images/fig2-1.jpg, id=29, 513.92pt x 513.92pt>
+Package pdftex.def Info: images/fig1-1.jpg  used on input line 91.
+(pdftex.def)             Requested size: 150.32504pt x 150.32687pt.
+<images/fig1-2.jpg, id=91, 513.92pt x 513.92pt>
+File: images/fig1-2.jpg Graphic file (type jpg)
+<use images/fig1-2.jpg>
+Package pdftex.def Info: images/fig1-2.jpg  used on input line 97.
+(pdftex.def)             Requested size: 150.32504pt x 150.32687pt.
+<images/fig1-3.jpg, id=92, 513.92pt x 513.92pt>
+File: images/fig1-3.jpg Graphic file (type jpg)
+<use images/fig1-3.jpg>
+Package pdftex.def Info: images/fig1-3.jpg  used on input line 103.
+(pdftex.def)             Requested size: 150.32504pt x 150.32687pt.
+<images/fig2-1.jpg, id=93, 513.92pt x 513.92pt>
 File: images/fig2-1.jpg Graphic file (type jpg)
 <use images/fig2-1.jpg>
-Package pdftex.def Info: images/fig2-1.jpg  used on input line 113.
-(pdftex.def)             Requested size: 110.40253pt x 110.39653pt.
-<images/fig2-2.jpg, id=30, 513.92pt x 513.92pt>
+Package pdftex.def Info: images/fig2-1.jpg  used on input line 117.
+(pdftex.def)             Requested size: 150.32504pt x 150.32687pt.
+<images/fig2-2.jpg, id=94, 513.92pt x 513.92pt>
 File: images/fig2-2.jpg Graphic file (type jpg)
 <use images/fig2-2.jpg>
-Package pdftex.def Info: images/fig2-2.jpg  used on input line 119.
-(pdftex.def)             Requested size: 110.40253pt x 110.39653pt.
-<images/fig2-3.png, id=31, 513.92pt x 513.92pt>
-File: images/fig2-3.png Graphic file (type png)
-<use images/fig2-3.png>
-Package pdftex.def Info: images/fig2-3.png  used on input line 125.
-(pdftex.def)             Requested size: 110.40253pt x 110.39653pt.
+Package pdftex.def Info: images/fig2-2.jpg  used on input line 123.
+(pdftex.def)             Requested size: 150.32504pt x 150.32687pt.
+<images/fig2-3.jpg, id=95, 513.92pt x 513.92pt>
+File: images/fig2-3.jpg Graphic file (type jpg)
+<use images/fig2-3.jpg>
+Package pdftex.def Info: images/fig2-3.jpg  used on input line 129.
+(pdftex.def)             Requested size: 150.32504pt x 150.32687pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/fig3-1.jpg, id=32, 513.92pt x 513.92pt>
+<images/fig3-1.jpg, id=96, 513.92pt x 513.92pt>
 File: images/fig3-1.jpg Graphic file (type jpg)
 <use images/fig3-1.jpg>
-Package pdftex.def Info: images/fig3-1.jpg  used on input line 139.
-(pdftex.def)             Requested size: 82.8019pt x 82.80132pt.
-<images/fig3-2.jpg, id=33, 513.92pt x 513.92pt>
+Package pdftex.def Info: images/fig3-1.jpg  used on input line 143.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+<images/fig3-2.jpg, id=97, 513.92pt x 513.92pt>
 File: images/fig3-2.jpg Graphic file (type jpg)
 <use images/fig3-2.jpg>
-Package pdftex.def Info: images/fig3-2.jpg  used on input line 145.
-(pdftex.def)             Requested size: 82.8019pt x 82.80132pt.
-<images/fig3-3.png, id=34, 513.92pt x 513.92pt>
-File: images/fig3-3.png Graphic file (type png)
-<use images/fig3-3.png>
-Package pdftex.def Info: images/fig3-3.png  used on input line 151.
-(pdftex.def)             Requested size: 82.8019pt x 82.80132pt.
-<images/fig3-4.png, id=35, 513.92pt x 513.92pt>
-File: images/fig3-4.png Graphic file (type png)
-<use images/fig3-4.png>
-Package pdftex.def Info: images/fig3-4.png  used on input line 157.
-(pdftex.def)             Requested size: 82.8019pt x 82.80132pt.
+Package pdftex.def Info: images/fig3-2.jpg  used on input line 149.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+<images/fig3-3.jpg, id=98, 513.92pt x 513.92pt>
+File: images/fig3-3.jpg Graphic file (type jpg)
+<use images/fig3-3.jpg>
+Package pdftex.def Info: images/fig3-3.jpg  used on input line 155.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+<images/fig3-4.jpg, id=99, 513.92pt x 513.92pt>
+File: images/fig3-4.jpg Graphic file (type jpg)
+<use images/fig3-4.jpg>
+Package pdftex.def Info: images/fig3-4.jpg  used on input line 161.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[4]
+[4 <./images/fig1-1.jpg> <./images/fig1-2.jpg> <./images/fig1-3.jpg>] [5 <./ima
+ges/fig2-1.jpg> <./images/fig2-2.jpg> <./images/fig2-3.jpg> <./images/fig3-1.jp
+g> <./images/fig3-2.jpg> <./images/fig3-3.jpg> <./images/fig3-4.jpg>] [6]
+[7] [8] [9] [10] [11]
+File: images/fig4-1.jpg Graphic file (type jpg)
+<use images/fig4-1.jpg>
+Package pdftex.def Info: images/fig4-1.jpg  used on input line 271.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+File: images/fig4-2.jpg Graphic file (type jpg)
+<use images/fig4-2.jpg>
+Package pdftex.def Info: images/fig4-2.jpg  used on input line 271.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+File: images/fig4-3.jpg Graphic file (type jpg)
+<use images/fig4-3.jpg>
+Package pdftex.def Info: images/fig4-3.jpg  used on input line 271.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+File: images/fig4-4.jpg Graphic file (type jpg)
+<use images/fig4-4.jpg>
+Package pdftex.def Info: images/fig4-4.jpg  used on input line 271.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+File: images/fig4-5.jpg Graphic file (type jpg)
+<use images/fig4-5.jpg>
+Package pdftex.def Info: images/fig4-5.jpg  used on input line 271.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+File: images/fig4-6.jpg Graphic file (type jpg)
+<use images/fig4-6.jpg>
+Package pdftex.def Info: images/fig4-6.jpg  used on input line 271.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+File: images/fig4-7.jpg Graphic file (type jpg)
+<use images/fig4-7.jpg>
+Package pdftex.def Info: images/fig4-7.jpg  used on input line 271.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+File: images/fig4-8.jpg Graphic file (type jpg)
+<use images/fig4-8.jpg>
+Package pdftex.def Info: images/fig4-8.jpg  used on input line 271.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+File: images/fig4-9.jpg Graphic file (type jpg)
+<use images/fig4-9.jpg>
+Package pdftex.def Info: images/fig4-9.jpg  used on input line 271.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+File: images/fig4-10.jpg Graphic file (type jpg)
+<use images/fig4-10.jpg>
+Package pdftex.def Info: images/fig4-10.jpg  used on input line 271.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+File: images/fig4-11.jpg Graphic file (type jpg)
+<use images/fig4-11.jpg>
+Package pdftex.def Info: images/fig4-11.jpg  used on input line 271.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+File: images/fig4-12.jpg Graphic file (type jpg)
+<use images/fig4-12.jpg>
+Package pdftex.def Info: images/fig4-12.jpg  used on input line 271.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+File: images/fig4-13.jpg Graphic file (type jpg)
+<use images/fig4-13.jpg>
+Package pdftex.def Info: images/fig4-13.jpg  used on input line 271.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+File: images/fig4-14.jpg Graphic file (type jpg)
+<use images/fig4-14.jpg>
+Package pdftex.def Info: images/fig4-14.jpg  used on input line 271.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+File: images/fig4-15.jpg Graphic file (type jpg)
+<use images/fig4-15.jpg>
+Package pdftex.def Info: images/fig4-15.jpg  used on input line 271.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+File: images/fig4-16.jpg Graphic file (type jpg)
+<use images/fig4-16.jpg>
+Package pdftex.def Info: images/fig4-16.jpg  used on input line 271.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
 
-LaTeX Warning: Citation `radford2021learning' on page 5 undefined on input line
- 169.
-
-[5 <C:/Projects/shapley_SD/paper/images/fig1-1.jpg> <C:/Projects/shapley_SD/pap
-er/images/fig1-2.png> <C:/Projects/shapley_SD/paper/images/fig1-3.png> <C:/Proj
-ects/shapley_SD/paper/images/fig2-1.jpg> <C:/Projects/shapley_SD/paper/images/f
-ig2-2.jpg> <C:/Projects/shapley_SD/paper/images/fig2-3.png> <C:/Projects/shaple
-y_SD/paper/images/fig3-1.jpg> <C:/Projects/shapley_SD/paper/images/fig3-2.jpg> 
-<C:/Projects/shapley_SD/paper/images/fig3-3.png> <C:/Projects/shapley_SD/paper/
-images/fig3-4.png>]
-
-LaTeX Warning: Citation `rombach2021highresolution' on page 6 undefined on inpu
-t line 171.
-
-[6]
-
-LaTeX Warning: Citation `image-style-study-2023-part1' on page 7 undefined on i
-nput line 180.
-
-
-Overfull \hbox (0.13953pt too wide) in paragraph at lines 184--185
-[]\OT1/cmr/m/n/10 We have aug-mented the ex-ist-ing method-ol-ogy with a par-ti
-c-u-lar log-i-cal frame-
- []
-
-[7]
-Overfull \hbox (4.30617pt too wide) in paragraph at lines 188--189
-[]\OT1/cmr/m/n/10 Upon re-flec-tion, we rec-og-nized the piv-otal sig-nif-i-can
-ce of ap-pro-pri-ately crafted
- []
-
-
-LaTeX Warning: Reference `tab:table_2' on page 8 undefined on input line 193.
-
-File: images/fig4-1.png Graphic file (type png)
-<use images/fig4-1.png>
-Package pdftex.def Info: images/fig4-1.png  used on input line 207.
-(pdftex.def)             Requested size: 73.97733pt x 73.97148pt.
-File: images/fig4-2.png Graphic file (type png)
-<use images/fig4-2.png>
-Package pdftex.def Info: images/fig4-2.png  used on input line 207.
-(pdftex.def)             Requested size: 73.97733pt x 73.97148pt.
-File: images/fig4-3.png Graphic file (type png)
-<use images/fig4-3.png>
-Package pdftex.def Info: images/fig4-3.png  used on input line 207.
-(pdftex.def)             Requested size: 73.97733pt x 73.97148pt.
-File: images/fig4-4.png Graphic file (type png)
-<use images/fig4-4.png>
-Package pdftex.def Info: images/fig4-4.png  used on input line 207.
-(pdftex.def)             Requested size: 73.97733pt x 73.97148pt.
-File: images/fig4-5.png Graphic file (type png)
-<use images/fig4-5.png>
-Package pdftex.def Info: images/fig4-5.png  used on input line 207.
-(pdftex.def)             Requested size: 73.97733pt x 73.97148pt.
-File: images/fig4-6.png Graphic file (type png)
-<use images/fig4-6.png>
-Package pdftex.def Info: images/fig4-6.png  used on input line 207.
-(pdftex.def)             Requested size: 73.97733pt x 73.97148pt.
-File: images/fig4-7.png Graphic file (type png)
-<use images/fig4-7.png>
-Package pdftex.def Info: images/fig4-7.png  used on input line 207.
-(pdftex.def)             Requested size: 73.97733pt x 73.97148pt.
-File: images/fig4-8.png Graphic file (type png)
-<use images/fig4-8.png>
-Package pdftex.def Info: images/fig4-8.png  used on input line 207.
-(pdftex.def)             Requested size: 73.97733pt x 73.97148pt.
-File: images/fig4-9.png Graphic file (type png)
-<use images/fig4-9.png>
-Package pdftex.def Info: images/fig4-9.png  used on input line 207.
-(pdftex.def)             Requested size: 73.97733pt x 73.97148pt.
-File: images/fig4-10.png Graphic file (type png)
-<use images/fig4-10.png>
-Package pdftex.def Info: images/fig4-10.png  used on input line 207.
-(pdftex.def)             Requested size: 73.97733pt x 73.97148pt.
-File: images/fig4-11.png Graphic file (type png)
-<use images/fig4-11.png>
-Package pdftex.def Info: images/fig4-11.png  used on input line 207.
-(pdftex.def)             Requested size: 73.97733pt x 73.97148pt.
-File: images/fig4-12.png Graphic file (type png)
-<use images/fig4-12.png>
-Package pdftex.def Info: images/fig4-12.png  used on input line 207.
-(pdftex.def)             Requested size: 73.97733pt x 73.97148pt.
-File: images/fig4-13.png Graphic file (type png)
-<use images/fig4-13.png>
-Package pdftex.def Info: images/fig4-13.png  used on input line 207.
-(pdftex.def)             Requested size: 73.97733pt x 73.97148pt.
-File: images/fig4-14.png Graphic file (type png)
-<use images/fig4-14.png>
-Package pdftex.def Info: images/fig4-14.png  used on input line 207.
-(pdftex.def)             Requested size: 73.97733pt x 73.97148pt.
-File: images/fig4-15.png Graphic file (type png)
-<use images/fig4-15.png>
-Package pdftex.def Info: images/fig4-15.png  used on input line 207.
-(pdftex.def)             Requested size: 73.97733pt x 73.97148pt.
-File: images/fig4-16.png Graphic file (type png)
-<use images/fig4-16.png>
-Package pdftex.def Info: images/fig4-16.png  used on input line 207.
-(pdftex.def)             Requested size: 73.97733pt x 73.97148pt.
-
-Underfull \hbox (badness 10000) in alignment at lines 207--207
+Overfull \hbox (29.22014pt too wide) in alignment at lines 271--271
 [][][][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[8] [9 <C:/Projects/shapley_SD/paper/images/fig4-1.png> <C:/Projects/shapley_SD
-/paper/images/fig4-2.png> <C:/Projects/shapley_SD/paper/images/fig4-3.png> <C:/
-Projects/shapley_SD/paper/images/fig4-4.png> <C:/Projects/shapley_SD/paper/imag
-es/fig4-5.png> <C:/Projects/shapley_SD/paper/images/fig4-6.png> <C:/Projects/sh
-apley_SD/paper/images/fig4-7.png> <C:/Projects/shapley_SD/paper/images/fig4-8.p
-ng
-!pdfTeX error: pdflatex: fwrite() failed
- ==> Fatal error occurred, no output PDF file produced!
+[12] [13 <./images/fig4-1.jpg> <./images/fig4-2.jpg> <./images/fig4-3.jpg> <./i
+mages/fig4-4.jpg> <./images/fig4-5.jpg> <./images/fig4-6.jpg> <./images/fig4-7.
+jpg> <./images/fig4-8.jpg> <./images/fig4-9.jpg> <./images/fig4-10.jpg> <./imag
+es/fig4-11.jpg> <./images/fig4-12.jpg> <./images/fig4-13.jpg> <./images/fig4-14
+.jpg> <./images/fig4-15.jpg> <./images/fig4-16.jpg>]
+LaTeX Font Info:    Trying to load font information for OMS+cmtt on input line 
+296.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 296.
+
+
+LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 296.
+
+<images/fig5-2.jpg, id=218, 513.92pt x 126.4725pt>
+File: images/fig5-2.jpg Graphic file (type jpg)
+<use images/fig5-2.jpg>
+Package pdftex.def Info: images/fig5-2.jpg  used on input line 303.
+(pdftex.def)             Requested size: 469.75502pt x 115.60541pt.
+<images/fig5-1.jpg, id=219, 513.92pt x 123.46124pt>
+File: images/fig5-1.jpg Graphic file (type jpg)
+<use images/fig5-1.jpg>
+Package pdftex.def Info: images/fig5-1.jpg  used on input line 311.
+(pdftex.def)             Requested size: 469.75502pt x 112.85287pt.
+<images/fig5-3.jpg, id=220, 1175.39125pt x 282.05376pt>
+File: images/fig5-3.jpg Graphic file (type jpg)
+<use images/fig5-3.jpg>
+Package pdftex.def Info: images/fig5-3.jpg  used on input line 319.
+(pdftex.def)             Requested size: 469.75502pt x 112.72481pt.
+<plots/figure_5_bar_chart.pdf, id=221, 618.3508pt x 404.39458pt>
+File: plots/figure_5_bar_chart.pdf Graphic file (type pdf)
+<use plots/figure_5_bar_chart.pdf>
+Package pdftex.def Info: plots/figure_5_bar_chart.pdf  used on input line 330.
+(pdftex.def)             Requested size: 281.85587pt x 184.32686pt.
+<plots/figure_5_pie_chart.pdf, id=222, 422.46376pt x 365.10718pt>
+File: plots/figure_5_pie_chart.pdf Graphic file (type pdf)
+<use plots/figure_5_pie_chart.pdf>
+Package pdftex.def Info: plots/figure_5_pie_chart.pdf  used on input line 335.
+(pdftex.def)             Requested size: 187.89914pt x 162.39139pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[14 <./images/fig5-2.jpg> <./images/fig5-1.jpg> <./images/fig5-3.jpg>]
+<images/fig7-1.jpg, id=235, 1175.39125pt x 282.05376pt>
+File: images/fig7-1.jpg Graphic file (type jpg)
+<use images/fig7-1.jpg>
+Package pdftex.def Info: images/fig7-1.jpg  used on input line 351.
+(pdftex.def)             Requested size: 469.75502pt x 112.72481pt.
+<images/fig7-2.jpg, id=236, 1175.39125pt x 282.05376pt>
+File: images/fig7-2.jpg Graphic file (type jpg)
+<use images/fig7-2.jpg>
+Package pdftex.def Info: images/fig7-2.jpg  used on input line 359.
+(pdftex.def)             Requested size: 469.75502pt x 112.72481pt.
+<images/fig7-3.jpg, id=237, 1175.39125pt x 282.05376pt>
+File: images/fig7-3.jpg Graphic file (type jpg)
+<use images/fig7-3.jpg>
+Package pdftex.def Info: images/fig7-3.jpg  used on input line 367.
+(pdftex.def)             Requested size: 469.75502pt x 112.72481pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<plots/figure_8_bar_chart.pdf, id=238, 626.02008pt x 404.39458pt>
+File: plots/figure_8_bar_chart.pdf Graphic file (type pdf)
+<use plots/figure_8_bar_chart.pdf>
+Package pdftex.def Info: plots/figure_8_bar_chart.pdf  used on input line 379.
+(pdftex.def)             Requested size: 281.85587pt x 182.0746pt.
+<plots/figure_8_pie_chart.pdf, id=239, 424.88408pt x 365.10718pt>
+File: plots/figure_8_pie_chart.pdf Graphic file (type pdf)
+<use plots/figure_8_pie_chart.pdf>
+Package pdftex.def Info: plots/figure_8_pie_chart.pdf  used on input line 384.
+(pdftex.def)             Requested size: 187.89914pt x 161.4666pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/fig10-2.jpg, id=242, 1175.39125pt x 282.05376pt>
+File: images/fig10-2.jpg Graphic file (type jpg)
+<use images/fig10-2.jpg>
+Package pdftex.def Info: images/fig10-2.jpg  used on input line 401.
+(pdftex.def)             Requested size: 469.75502pt x 112.72481pt.
+<images/fig10-1.jpg, id=243, 1175.39125pt x 282.05376pt>
+File: images/fig10-1.jpg Graphic file (type jpg)
+<use images/fig10-1.jpg>
+Package pdftex.def Info: images/fig10-1.jpg  used on input line 409.
+(pdftex.def)             Requested size: 469.75502pt x 112.72481pt.
+<images/fig10-3.jpg, id=244, 1175.39125pt x 282.05376pt>
+File: images/fig10-3.jpg Graphic file (type jpg)
+<use images/fig10-3.jpg>
+Package pdftex.def Info: images/fig10-3.jpg  used on input line 417.
+(pdftex.def)             Requested size: 469.75502pt x 112.72481pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<plots/figure_11_bar_chart.pdf, id=245, 626.02008pt x 404.39458pt>
+File: plots/figure_11_bar_chart.pdf Graphic file (type pdf)
+<use plots/figure_11_bar_chart.pdf>
+Package pdftex.def Info: plots/figure_11_bar_chart.pdf  used on input line 429.
+
+(pdftex.def)             Requested size: 281.85587pt x 182.0746pt.
+<plots/figure_11_pie_chart.pdf, id=246, 359.45064pt x 365.10718pt>
+File: plots/figure_11_pie_chart.pdf Graphic file (type pdf)
+<use plots/figure_11_pie_chart.pdf>
+Package pdftex.def Info: plots/figure_11_pie_chart.pdf  used on input line 434.
+
+(pdftex.def)             Requested size: 187.89914pt x 190.8596pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/fig13-2.jpg, id=250, 1175.39125pt x 281.05pt>
+File: images/fig13-2.jpg Graphic file (type jpg)
+<use images/fig13-2.jpg>
+Package pdftex.def Info: images/fig13-2.jpg  used on input line 450.
+(pdftex.def)             Requested size: 469.75502pt x 112.32365pt.
+<images/fig13-1.jpg, id=251, 1175.39125pt x 282.05376pt>
+File: images/fig13-1.jpg Graphic file (type jpg)
+<use images/fig13-1.jpg>
+Package pdftex.def Info: images/fig13-1.jpg  used on input line 458.
+(pdftex.def)             Requested size: 469.75502pt x 112.72481pt.
+<images/fig13-3.jpg, id=252, 1175.39125pt x 282.05376pt>
+File: images/fig13-3.jpg Graphic file (type jpg)
+<use images/fig13-3.jpg>
+Package pdftex.def Info: images/fig13-3.jpg  used on input line 466.
+(pdftex.def)             Requested size: 469.75502pt x 112.72481pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/fig14.png, id=253, 858.20625pt x 549.05125pt>
+File: images/fig14.png Graphic file (type png)
+<use images/fig14.png>
+Package pdftex.def Info: images/fig14.png  used on input line 479.
+(pdftex.def)             Requested size: 258.36668pt x 165.29471pt.
+<images/fig15.png, id=254, 516.93124pt x 412.54124pt>
+File: images/fig15.png Graphic file (type png)
+<use images/fig15.png>
+Package pdftex.def Info: images/fig15.png  used on input line 485.
+(pdftex.def)             Requested size: 187.89914pt x 149.95625pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/fig16-2.jpg, id=258, 1175.39125pt x 282.05376pt>
+File: images/fig16-2.jpg Graphic file (type jpg)
+<use images/fig16-2.jpg>
+Package pdftex.def Info: images/fig16-2.jpg  used on input line 498.
+(pdftex.def)             Requested size: 375.80544pt x 90.17726pt.
+<images/fig16-1.jpg, id=259, 1175.39125pt x 282.05376pt>
+File: images/fig16-1.jpg Graphic file (type jpg)
+<use images/fig16-1.jpg>
+Package pdftex.def Info: images/fig16-1.jpg  used on input line 506.
+(pdftex.def)             Requested size: 375.80544pt x 90.17726pt.
+<images/fig16-3.jpg, id=260, 1175.39125pt x 282.05376pt>
+File: images/fig16-3.jpg Graphic file (type jpg)
+<use images/fig16-3.jpg>
+Package pdftex.def Info: images/fig16-3.jpg  used on input line 514.
+(pdftex.def)             Requested size: 375.80544pt x 90.17726pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/fig17.png, id=261, 858.20625pt x 549.05125pt>
+File: images/fig17.png Graphic file (type png)
+<use images/fig17.png>
+Package pdftex.def Info: images/fig17.png  used on input line 527.
+(pdftex.def)             Requested size: 258.36668pt x 165.29471pt.
+<images/fig18.png, id=262, 516.93124pt x 418.56375pt>
+File: images/fig18.png Graphic file (type png)
+<use images/fig18.png>
+Package pdftex.def Info: images/fig18.png  used on input line 533.
+(pdftex.def)             Requested size: 187.89914pt x 152.14539pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15 <./plots/figure_5_bar_chart.pdf> <./plots/figure_5_pie_chart.pdf>] [16 <./i
+mages/fig7-1.jpg> <./images/fig7-2.jpg> <./images/fig7-3.jpg>]
+<images/fig19-1.jpg, id=359, 1175.39125pt x 282.05376pt>
+File: images/fig19-1.jpg Graphic file (type jpg)
+<use images/fig19-1.jpg>
+Package pdftex.def Info: images/fig19-1.jpg  used on input line 571.
+(pdftex.def)             Requested size: 375.80544pt x 90.17726pt.
+<images/fig19-2.jpg, id=360, 1175.39125pt x 282.05376pt>
+File: images/fig19-2.jpg Graphic file (type jpg)
+<use images/fig19-2.jpg>
+Package pdftex.def Info: images/fig19-2.jpg  used on input line 579.
+(pdftex.def)             Requested size: 375.80544pt x 90.17726pt.
+<images/fig19-3.jpg, id=361, 1175.39125pt x 282.05376pt>
+File: images/fig19-3.jpg Graphic file (type jpg)
+<use images/fig19-3.jpg>
+Package pdftex.def Info: images/fig19-3.jpg  used on input line 587.
+(pdftex.def)             Requested size: 375.80544pt x 90.17726pt.
+<images/fig19-4.jpg, id=362, 1175.39125pt x 282.05376pt>
+File: images/fig19-4.jpg Graphic file (type jpg)
+<use images/fig19-4.jpg>
+Package pdftex.def Info: images/fig19-4.jpg  used on input line 595.
+(pdftex.def)             Requested size: 375.80544pt x 90.17726pt.
+<images/fig19-5.jpg, id=363, 1175.39125pt x 282.05376pt>
+File: images/fig19-5.jpg Graphic file (type jpg)
+<use images/fig19-5.jpg>
+Package pdftex.def Info: images/fig19-5.jpg  used on input line 603.
+(pdftex.def)             Requested size: 375.80544pt x 90.17726pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/fig20.png, id=364, 849.1725pt x 549.05125pt>
+File: images/fig20.png Graphic file (type png)
+<use images/fig20.png>
+Package pdftex.def Info: images/fig20.png  used on input line 616.
+(pdftex.def)             Requested size: 211.38832pt x 136.67603pt.
+<images/fig21.png, id=365, 849.1725pt x 549.05125pt>
+File: images/fig21.png Graphic file (type png)
+<use images/fig21.png>
+Package pdftex.def Info: images/fig21.png  used on input line 622.
+(pdftex.def)             Requested size: 211.38832pt x 136.67603pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/fig22.png, id=366, 516.93124pt x 412.54124pt>
+File: images/fig22.png Graphic file (type png)
+<use images/fig22.png>
+Package pdftex.def Info: images/fig22.png  used on input line 632.
+(pdftex.def)             Requested size: 211.38832pt x 168.70236pt.
+<images/fig23.png, id=367, 585.18625pt x 412.54124pt>
+File: images/fig23.png Graphic file (type png)
+<use images/fig23.png>
+Package pdftex.def Info: images/fig23.png  used on input line 638.
+(pdftex.def)             Requested size: 211.38832pt x 149.02461pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[17 <./plots/figure_8_bar_chart.pdf> <./plots/figure_8_pie_chart.pdf>] [18 <./i
+mages/fig10-2.jpg> <./images/fig10-1.jpg> <./images/fig10-3.jpg>]
+<images/fig24-1.jpg, id=472, 513.92pt x 513.92pt>
+File: images/fig24-1.jpg Graphic file (type jpg)
+<use images/fig24-1.jpg>
+Package pdftex.def Info: images/fig24-1.jpg  used on input line 671.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+<images/fig24-2.jpg, id=473, 513.92pt x 513.92pt>
+File: images/fig24-2.jpg Graphic file (type jpg)
+<use images/fig24-2.jpg>
+Package pdftex.def Info: images/fig24-2.jpg  used on input line 672.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+<images/fig24-3.jpg, id=474, 513.92pt x 513.92pt>
+File: images/fig24-3.jpg Graphic file (type jpg)
+<use images/fig24-3.jpg>
+Package pdftex.def Info: images/fig24-3.jpg  used on input line 673.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+<images/fig24-4.jpg, id=475, 513.92pt x 513.92pt>
+File: images/fig24-4.jpg Graphic file (type jpg)
+<use images/fig24-4.jpg>
+Package pdftex.def Info: images/fig24-4.jpg  used on input line 674.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+<images/fig24-5.jpg, id=476, 513.92pt x 513.92pt>
+File: images/fig24-5.jpg Graphic file (type jpg)
+<use images/fig24-5.jpg>
+Package pdftex.def Info: images/fig24-5.jpg  used on input line 682.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+<images/fig24-6.jpg, id=477, 513.92pt x 513.92pt>
+File: images/fig24-6.jpg Graphic file (type jpg)
+<use images/fig24-6.jpg>
+Package pdftex.def Info: images/fig24-6.jpg  used on input line 683.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+<images/fig24-7.jpg, id=478, 513.92pt x 513.92pt>
+File: images/fig24-7.jpg Graphic file (type jpg)
+<use images/fig24-7.jpg>
+Package pdftex.def Info: images/fig24-7.jpg  used on input line 684.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+<images/fig24-8.jpg, id=479, 513.92pt x 513.92pt>
+File: images/fig24-8.jpg Graphic file (type jpg)
+<use images/fig24-8.jpg>
+Package pdftex.def Info: images/fig24-8.jpg  used on input line 685.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+<images/fig24-9.jpg, id=480, 513.92pt x 513.92pt>
+File: images/fig24-9.jpg Graphic file (type jpg)
+<use images/fig24-9.jpg>
+Package pdftex.def Info: images/fig24-9.jpg  used on input line 693.
+(pdftex.def)             Requested size: 150.32504pt x 150.32687pt.
+<images/fig24-10.jpg, id=481, 513.92pt x 513.92pt>
+File: images/fig24-10.jpg Graphic file (type jpg)
+<use images/fig24-10.jpg>
+Package pdftex.def Info: images/fig24-10.jpg  used on input line 694.
+(pdftex.def)             Requested size: 150.32504pt x 150.32687pt.
+<images/fig24-11.jpg, id=482, 513.92pt x 513.92pt>
+File: images/fig24-11.jpg Graphic file (type jpg)
+<use images/fig24-11.jpg>
+Package pdftex.def Info: images/fig24-11.jpg  used on input line 695.
+(pdftex.def)             Requested size: 150.32504pt x 150.32687pt.
+<images/fig24-12.jpg, id=483, 513.92pt x 513.92pt>
+File: images/fig24-12.jpg Graphic file (type jpg)
+<use images/fig24-12.jpg>
+Package pdftex.def Info: images/fig24-12.jpg  used on input line 703.
+(pdftex.def)             Requested size: 150.32504pt x 150.32687pt.
+<images/fig24-13.jpg, id=484, 513.92pt x 513.92pt>
+File: images/fig24-13.jpg Graphic file (type jpg)
+<use images/fig24-13.jpg>
+Package pdftex.def Info: images/fig24-13.jpg  used on input line 704.
+(pdftex.def)             Requested size: 150.32504pt x 150.32687pt.
+<images/fig24-14.jpg, id=485, 513.92pt x 513.92pt>
+File: images/fig24-14.jpg Graphic file (type jpg)
+<use images/fig24-14.jpg>
+Package pdftex.def Info: images/fig24-14.jpg  used on input line 705.
+(pdftex.def)             Requested size: 150.32504pt x 150.32687pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/fig25.png, id=486, 1204.5pt x 744.7825pt>
+File: images/fig25.png Graphic file (type png)
+<use images/fig25.png>
+Package pdftex.def Info: images/fig25.png  used on input line 716.
+(pdftex.def)             Requested size: 328.82707pt x 203.3214pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/fig26-1.jpg, id=487, 1593.955pt x 1594.95876pt>
+File: images/fig26-1.jpg Graphic file (type jpg)
+<use images/fig26-1.jpg>
+Package pdftex.def Info: images/fig26-1.jpg  used on input line 727.
+(pdftex.def)             Requested size: 225.4804pt x 225.60472pt.
+<images/fig26-2.jpg, id=488, 1593.955pt x 1594.95876pt>
+File: images/fig26-2.jpg Graphic file (type jpg)
+<use images/fig26-2.jpg>
+Package pdftex.def Info: images/fig26-2.jpg  used on input line 735.
+(pdftex.def)             Requested size: 225.4804pt x 225.60472pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[19 <./plots/figure_11_bar_chart.pdf> <./plots/figure_11_pie_chart.pdf>]
+<images/fig27-1.jpg, id=579, 642.4pt x 642.4pt>
+File: images/fig27-1.jpg Graphic file (type jpg)
+<use images/fig27-1.jpg>
+Package pdftex.def Info: images/fig27-1.jpg  used on input line 752.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig27-2.jpg, id=580, 642.4pt x 642.4pt>
+File: images/fig27-2.jpg Graphic file (type jpg)
+<use images/fig27-2.jpg>
+Package pdftex.def Info: images/fig27-2.jpg  used on input line 756.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig27-4.jpg, id=581, 642.4pt x 642.4pt>
+File: images/fig27-4.jpg Graphic file (type jpg)
+<use images/fig27-4.jpg>
+Package pdftex.def Info: images/fig27-4.jpg  used on input line 760.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig27-5.jpg, id=582, 642.4pt x 642.4pt>
+File: images/fig27-5.jpg Graphic file (type jpg)
+<use images/fig27-5.jpg>
+Package pdftex.def Info: images/fig27-5.jpg  used on input line 764.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/fig28.png, id=583, 1204.5pt x 744.7825pt>
+File: images/fig28.png Graphic file (type png)
+<use images/fig28.png>
+Package pdftex.def Info: images/fig28.png  used on input line 772.
+(pdftex.def)             Requested size: 328.82707pt x 203.3214pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/fig29-1.jpg, id=584, 1593.955pt x 1594.95876pt>
+File: images/fig29-1.jpg Graphic file (type jpg)
+<use images/fig29-1.jpg>
+Package pdftex.def Info: images/fig29-1.jpg  used on input line 781.
+(pdftex.def)             Requested size: 225.4804pt x 225.60472pt.
+<images/fig29-2.jpg, id=585, 1593.955pt x 1594.95876pt>
+File: images/fig29-2.jpg Graphic file (type jpg)
+<use images/fig29-2.jpg>
+Package pdftex.def Info: images/fig29-2.jpg  used on input line 787.
+(pdftex.def)             Requested size: 225.4804pt x 225.60472pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[20 <./images/fig13-2.jpg> <./images/fig13-1.jpg> <./images/fig13-3.jpg>]
+<images/fig30-4.jpg, id=601, 642.4pt x 642.4pt>
+File: images/fig30-4.jpg Graphic file (type jpg)
+<use images/fig30-4.jpg>
+Package pdftex.def Info: images/fig30-4.jpg  used on input line 803.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig30-5.jpg, id=602, 642.4pt x 642.4pt>
+File: images/fig30-5.jpg Graphic file (type jpg)
+<use images/fig30-5.jpg>
+Package pdftex.def Info: images/fig30-5.jpg  used on input line 804.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig30-6.jpg, id=603, 642.4pt x 642.4pt>
+File: images/fig30-6.jpg Graphic file (type jpg)
+<use images/fig30-6.jpg>
+Package pdftex.def Info: images/fig30-6.jpg  used on input line 805.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig30-7.jpg, id=604, 642.4pt x 642.4pt>
+File: images/fig30-7.jpg Graphic file (type jpg)
+<use images/fig30-7.jpg>
+Package pdftex.def Info: images/fig30-7.jpg  used on input line 806.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig30-8.jpg, id=605, 642.4pt x 642.4pt>
+File: images/fig30-8.jpg Graphic file (type jpg)
+<use images/fig30-8.jpg>
+Package pdftex.def Info: images/fig30-8.jpg  used on input line 812.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig30-9.jpg, id=606, 642.4pt x 642.4pt>
+File: images/fig30-9.jpg Graphic file (type jpg)
+<use images/fig30-9.jpg>
+Package pdftex.def Info: images/fig30-9.jpg  used on input line 813.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig30-10.jpg, id=607, 642.4pt x 642.4pt>
+File: images/fig30-10.jpg Graphic file (type jpg)
+<use images/fig30-10.jpg>
+Package pdftex.def Info: images/fig30-10.jpg  used on input line 814.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig30-11.jpg, id=608, 642.4pt x 642.4pt>
+File: images/fig30-11.jpg Graphic file (type jpg)
+<use images/fig30-11.jpg>
+Package pdftex.def Info: images/fig30-11.jpg  used on input line 815.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig30-12.jpg, id=609, 642.4pt x 642.4pt>
+File: images/fig30-12.jpg Graphic file (type jpg)
+<use images/fig30-12.jpg>
+Package pdftex.def Info: images/fig30-12.jpg  used on input line 821.
+(pdftex.def)             Requested size: 150.32504pt x 150.31708pt.
+<images/fig30-13.jpg, id=610, 642.4pt x 642.4pt>
+File: images/fig30-13.jpg Graphic file (type jpg)
+<use images/fig30-13.jpg>
+Package pdftex.def Info: images/fig30-13.jpg  used on input line 822.
+(pdftex.def)             Requested size: 150.32504pt x 150.31708pt.
+<images/fig30-14.jpg, id=611, 642.4pt x 642.4pt>
+File: images/fig30-14.jpg Graphic file (type jpg)
+<use images/fig30-14.jpg>
+Package pdftex.def Info: images/fig30-14.jpg  used on input line 823.
+(pdftex.def)             Requested size: 150.32504pt x 150.31708pt.
+<images/fig30-1.jpg, id=612, 642.4pt x 642.4pt>
+File: images/fig30-1.jpg Graphic file (type jpg)
+<use images/fig30-1.jpg>
+Package pdftex.def Info: images/fig30-1.jpg  used on input line 829.
+(pdftex.def)             Requested size: 150.32504pt x 150.31708pt.
+<images/fig30-2.jpg, id=613, 642.4pt x 642.4pt>
+File: images/fig30-2.jpg Graphic file (type jpg)
+<use images/fig30-2.jpg>
+Package pdftex.def Info: images/fig30-2.jpg  used on input line 830.
+(pdftex.def)             Requested size: 150.32504pt x 150.31708pt.
+<images/fig30-3.jpg, id=614, 642.4pt x 642.4pt>
+File: images/fig30-3.jpg Graphic file (type jpg)
+<use images/fig30-3.jpg>
+Package pdftex.def Info: images/fig30-3.jpg  used on input line 831.
+(pdftex.def)             Requested size: 150.32504pt x 150.31708pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/fig31.png, id=615, 1204.5pt x 744.7825pt>
+File: images/fig31.png Graphic file (type png)
+<use images/fig31.png>
+Package pdftex.def Info: images/fig31.png  used on input line 841.
+(pdftex.def)             Requested size: 328.82707pt x 203.3214pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/fig32-1.jpg, id=616, 1593.955pt x 1594.95876pt>
+File: images/fig32-1.jpg Graphic file (type jpg)
+<use images/fig32-1.jpg>
+Package pdftex.def Info: images/fig32-1.jpg  used on input line 850.
+(pdftex.def)             Requested size: 225.4804pt x 225.60472pt.
+<images/fig32-2.jpg, id=617, 1593.955pt x 1594.95876pt>
+File: images/fig32-2.jpg Graphic file (type jpg)
+<use images/fig32-2.jpg>
+Package pdftex.def Info: images/fig32-2.jpg  used on input line 856.
+(pdftex.def)             Requested size: 225.4804pt x 225.60472pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/fig33-1.jpg, id=620, 642.4pt x 642.4pt>
+File: images/fig33-1.jpg Graphic file (type jpg)
+<use images/fig33-1.jpg>
+Package pdftex.def Info: images/fig33-1.jpg  used on input line 872.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig33-2.jpg, id=621, 642.4pt x 642.4pt>
+File: images/fig33-2.jpg Graphic file (type jpg)
+<use images/fig33-2.jpg>
+Package pdftex.def Info: images/fig33-2.jpg  used on input line 873.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig33-3.jpg, id=622, 642.4pt x 642.4pt>
+File: images/fig33-3.jpg Graphic file (type jpg)
+<use images/fig33-3.jpg>
+Package pdftex.def Info: images/fig33-3.jpg  used on input line 874.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig33-4.jpg, id=623, 642.4pt x 642.4pt>
+File: images/fig33-4.jpg Graphic file (type jpg)
+<use images/fig33-4.jpg>
+Package pdftex.def Info: images/fig33-4.jpg  used on input line 875.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig33-5.jpg, id=624, 642.4pt x 642.4pt>
+File: images/fig33-5.jpg Graphic file (type jpg)
+<use images/fig33-5.jpg>
+Package pdftex.def Info: images/fig33-5.jpg  used on input line 881.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig33-6.jpg, id=625, 642.4pt x 642.4pt>
+File: images/fig33-6.jpg Graphic file (type jpg)
+<use images/fig33-6.jpg>
+Package pdftex.def Info: images/fig33-6.jpg  used on input line 882.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig33-7.jpg, id=626, 642.4pt x 642.4pt>
+File: images/fig33-7.jpg Graphic file (type jpg)
+<use images/fig33-7.jpg>
+Package pdftex.def Info: images/fig33-7.jpg  used on input line 883.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig33-8.jpg, id=627, 642.4pt x 642.4pt>
+File: images/fig33-8.jpg Graphic file (type jpg)
+<use images/fig33-8.jpg>
+Package pdftex.def Info: images/fig33-8.jpg  used on input line 884.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig33-9.jpg, id=628, 642.4pt x 642.4pt>
+File: images/fig33-9.jpg Graphic file (type jpg)
+<use images/fig33-9.jpg>
+Package pdftex.def Info: images/fig33-9.jpg  used on input line 890.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig33-10.jpg, id=629, 642.4pt x 642.4pt>
+File: images/fig33-10.jpg Graphic file (type jpg)
+<use images/fig33-10.jpg>
+Package pdftex.def Info: images/fig33-10.jpg  used on input line 891.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig33-11.jpg, id=630, 642.4pt x 642.4pt>
+File: images/fig33-11.jpg Graphic file (type jpg)
+<use images/fig33-11.jpg>
+Package pdftex.def Info: images/fig33-11.jpg  used on input line 892.
+(pdftex.def)             Requested size: 112.74377pt x 112.73535pt.
+<images/fig33-12.jpg, id=631, 513.92pt x 513.92pt>
+File: images/fig33-12.jpg Graphic file (type jpg)
+<use images/fig33-12.jpg>
+Package pdftex.def Info: images/fig33-12.jpg  used on input line 893.
+(pdftex.def)             Requested size: 112.74377pt x 112.74123pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/fig34-2.jpg, id=632, 401.5pt x 401.5pt>
+File: images/fig34-2.jpg Graphic file (type jpg)
+<use images/fig34-2.jpg>
+Package pdftex.def Info: images/fig34-2.jpg  used on input line 903.
+(pdftex.def)             Requested size: 234.8775pt x 234.88573pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/fig34-1.png, id=633, 1148.29pt x 688.5725pt>
+File: images/fig34-1.png Graphic file (type png)
+<use images/fig34-1.png>
+Package pdftex.def Info: images/fig34-1.png  used on input line 910.
+(pdftex.def)             Requested size: 375.80544pt x 225.3489pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[21 <./images/fig14.png> <./images/fig15.png>] [22 <./images/fig16-2.jpg> <./im
+ages/fig16-1.jpg> <./images/fig16-3.jpg>] (dataxide_paper_1.bbl [23 <./images/f
+ig17.png> <./images/fig18.png>] [24]
+Underfull \hbox (badness 2401) in paragraph at lines 166--171
+[]\OT1/cmr/m/n/12 @sureailabs, @prox-i-masan, @EErrat-ica, and @Kyrick-Y-oung. 
+ Im-age syn-the-sis
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 166--171
+\OT1/cmr/m/n/12 style stud-ies database (the list).  []$\OT1/cmtt/m/n/12 https 
+: / / docs . google . com / spreadsheets / d /
+ []
+
+) [25] [26 <./images/fig19-1.jpg> <./images/fig19-2.jpg> <./images/fig19-3.jpg>
+ <./images/fig19-4.jpg> <./images/fig19-5.jpg>] [27 <./images/fig20.png> <./ima
+ges/fig21.png> <./images/fig22.png> <./images/fig23.png>] [28 <./images/fig24-1
+.jpg> <./images/fig24-2.jpg> <./images/fig24-3.jpg> <./images/fig24-4.jpg> <./i
+mages/fig24-5.jpg> <./images/fig24-6.jpg> <./images/fig24-7.jpg> <./images/fig2
+4-8.jpg> <./images/fig24-9.jpg> <./images/fig24-10.jpg> <./images/fig24-11.jpg>
+ <./images/fig24-12.jpg> <./images/fig24-13.jpg> <./images/fig24-14.jpg>]
+[29 <./images/fig25.png> <./images/fig26-1.jpg> <./images/fig26-2.jpg>]
+[30 <./images/fig27-1.jpg> <./images/fig27-2.jpg> <./images/fig27-4.jpg> <./ima
+ges/fig27-5.jpg> <./images/fig28.png>] [31 <./images/fig29-1.jpg> <./images/fig
+29-2.jpg>] [32 <./images/fig30-4.jpg> <./images/fig30-5.jpg> <./images/fig30-6.
+jpg> <./images/fig30-7.jpg> <./images/fig30-8.jpg> <./images/fig30-9.jpg> <./im
+ages/fig30-10.jpg> <./images/fig30-11.jpg> <./images/fig30-12.jpg> <./images/fi
+g30-13.jpg> <./images/fig30-14.jpg> <./images/fig30-1.jpg> <./images/fig30-2.jp
+g> <./images/fig30-3.jpg>] [33 <./images/fig31.png> <./images/fig32-1.jpg> <./i
+mages/fig32-2.jpg>] [34 <./images/fig33-1.jpg> <./images/fig33-2.jpg> <./images
+/fig33-3.jpg> <./images/fig33-4.jpg> <./images/fig33-5.jpg> <./images/fig33-6.j
+pg> <./images/fig33-7.jpg> <./images/fig33-8.jpg> <./images/fig33-9.jpg> <./ima
+ges/fig33-10.jpg> <./images/fig33-11.jpg> <./images/fig33-12.jpg>] [35 <./image
+s/fig34-2.jpg> <./images/fig34-1.png>] (dataxide_paper_1.aux)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `dataxide_paper_1.out' has not changed.
+(rerunfilecheck)             Checksum: 470C72DC59390BED40BBF65E11A2247D;1735.
+ ) 
+Here is how much of TeX's memory you used:
+ 12000 strings out of 474587
+ 202760 string characters out of 5745693
+ 1953558 words of memory out of 5000000
+ 33954 multiletter control sequences out of 15000+600000
+ 566059 words of font info for 62 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,12n,79p,1231b,593s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\alexi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1095.pk> <C:\Users\alexi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\tcrm1200.pk> <C:\Users\alexi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\tcrm0700.pk> <C:\Users\alexi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\tcrm1000.pk><C:/Users/alexi/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmbx10.pfb><C:/Users/alexi/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/alexi/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/alexi/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/alexi/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/
+alexi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C
+:/Users/alexi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb><C:/Users/alexi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmti10.pfb><C:/Users/alexi/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmti12.pfb><C:/Users/alexi/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmtt12.pfb>
+Output written on dataxide_paper_1.pdf (35 pages, 7407062 bytes).
+PDF statistics:
+ 811 PDF objects out of 1000 (max. 8388607)
+ 116 named destinations out of 1000 (max. 500000)
+ 672 words of extra memory for PDF output out of 10000 (max. 10000000)
+
